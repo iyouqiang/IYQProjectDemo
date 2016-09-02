@@ -1,0 +1,21 @@
+//
+//  IYQPrefixHeader.pch
+//  IYQProjectDemo
+//
+//  Created by chmtech003 on 16/9/1.
+//  Copyright © 2016年 gongyouqiang. All rights reserved.
+//
+
+#ifndef IYQPrefixHeader_pch
+#define IYQPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/**
+ *  http://www.cocoachina.com/ios/20150505/11752.html // 几个通用模块的介绍
+ */
+
+#import <MBProgressHUD/MBProgressHUD.h>
+
+#endif /* IYQPrefixHeader_pch */
